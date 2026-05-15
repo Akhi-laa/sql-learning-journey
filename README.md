@@ -44,3 +44,8 @@ sql-learning-journey
 Instead of only watching tutorials, I recreated queries independently in MySQL Workbench, explored database relationships, debugged errors, and documented concepts to strengthen understanding.
 
 This repository reflects my SQL learning foundation as I transition into Data Analytics.
+
+
+## Next Steps
+
+Currently expanding SQL skills through hands-on practice and preparing for data analytics projects involving business problem solving and operational datasets.
