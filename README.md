@@ -2,7 +2,7 @@
 
 This repository documents my hands-on SQL learning journey using MySQL Workbench.
 
-I completed a full SQL fundamentals tutorial and recreated databases, tables, and queries while documenting concepts, debugging errors, and understanding relational database logic.
+I completed a full SQL fundamentals learning path and recreated databases, tables, and queries while documenting concepts, debugging errors, and understanding relational database logic.
 
 ## Tools Used
 - MySQL Workbench
