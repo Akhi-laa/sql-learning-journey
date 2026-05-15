@@ -1,6 +1,16 @@
 
 -- TOPIC : CREATING TABLES
 
+-- CONCEPTS:
+-- Primary Key
+-- Foreign Key
+-- ON DELETE SET NULL
+-- ON DELETE CASCADE
+-- Composite Primary Key
+
+-- PROJECT:
+-- Company Database Schema Creation
+
 CREATE DATABASE dummyDB;
 USE dummyDB;
 
